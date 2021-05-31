@@ -31,7 +31,7 @@ The dataset was scraped from the following websites: Monster, PinoyJobs, and Wor
 - **gensim.utils simple_preprocess** - used to preprocess text by making them lower-cased, and transforming the words to their original form (de-tokenizing)
 - **gensim.parsing.preprocessing STOPWORDS** - stop words are common words that do not have value and are often removed in pre-processing
 - **gensim corpora** - used to work with corpus and words
-- **gensim models*8 - used for topic modelling and model training
+- **gensim models** - used for topic modelling and model training
 - **nltk.stem WordNetLemmatizer** - used for grouping similar strings together
 - **bs4 BeautifulSoup** - library used to web scrape HTML from websites
 - **datetime datetime** - used for converting string of time into datetime format to month, day, and year.
