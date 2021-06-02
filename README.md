@@ -38,6 +38,21 @@ The dataset was scraped from the following websites: Monster, PinoyJobs, and Wor
 - **datetime timedelta** - used for finding delta of time ago with time scraped if date has minutes, hours, days, or weeks ago
 - **dateutil.relativedelta relativedelta** - used for finding delta of time ago with time scraped if date has months and years
 
+## Python Notebook Files Guide
+
+- **Trifacta_WS_Joblum.ipynb** - Web Scraping for Joblum (initial data cleaning was also performed while scraping)
+- **Trifacta_WS_Monster.ipynb** - Web Scraping for Monster
+- **Trifacta_WS_PinoyJobs.ipynb** - Web Scraping for PinoyJobs
+- **Trifacta_WS_Workbank.ipynb** - Web Scraping for Workbank
+
+- **Trifacta_DC_Joblum.ipynb** - Data Cleaning for Joblum
+- **Trifacta_DC_Monster.ipynb** - Data Cleaning for Monster
+- **Trifacta_DC_PinoyJobs.ipynb** - Data Cleaning for PinoyJobs
+- **Trifacta_DC_Workbank.ipynb** - Data Cleaning for Workbank
+
+- **Trifacta_EDA_Compiled.ipynb** - Basic EDA
+- **Trifacta_Jobs_Compiled.ipynb** - All in One 
+
 ## How to use
 - The notebook with the steps of web-scraping and cleaning are accessible through using Jupyter (https://jupyter.org/install).
 - The PDF documentation also grazes on the process of data gathering, data-preprocessing and exploratory data analysis is included for use as reference to those who want to replicate the steps or create their own for other fields.
