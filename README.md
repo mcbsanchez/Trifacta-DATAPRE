@@ -48,7 +48,7 @@ The dataset was scraped from the following websites: Monster, PinoyJobs, and Wor
 - **Trifacta_DC_Monster.ipynb** - Data Cleaning for Monster
 - **Trifacta_DC_PinoyJobs.ipynb** - Data Cleaning for PinoyJobs
 - **Trifacta_DC_Workbank.ipynb** - Data Cleaning for Workbank
-- **Trifacta_EDA_Compiled.ipynb** - Basic EDA
+- **Trifacta_EDA_Compiled.ipynb** - Basic EDA and Compiling Joblum, Monster, PinoyJobs, and Workbank one dataset
 - **Trifacta_Jobs_Compiled.ipynb** - All in One 
 
 ## How to use
